@@ -1,0 +1,23 @@
+.bigcontainer{
+    border: 1px solid grey; 
+    background-color: #d6e2ec;
+    color: white;
+}
+.smallcontainer{
+    /* border: 1px solid red; */
+    background-color: #24252a;
+    margin: 20px;
+}
+.tinycontainer{
+    display: flex;
+    gap: 10px;
+    justify-content: space-around;
+}
+button{
+    margin-top: 20px;
+    height: 35px;
+    width: 100px;
+    background-color: #0086aa;
+    color: white;
+    border-radius: 10px;
+}
