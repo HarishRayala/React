@@ -1,0 +1,21 @@
+
+.box1{
+  background-color: aqua;
+  height: auto;
+  width: 250px;
+  text-align: center;
+  margin: auto;
+}
+.box2{
+  text-align: center;
+  margin: auto;
+  background-color: bisque;
+  width: 250px;
+  justify-content: center;
+}
+button{
+  border: none;
+  background-color: black;
+  color: white;
+  height: 20px;
+}
